@@ -1,12 +1,10 @@
 ## XcodeRalph
 
 ### App Description
-`TODO://` My first demo
+IOS Version. My first demo.
 
 ### App Walk-though
-`TODO://` <img src="http://g.recordit.co/oImzeatFXU.gif" width=200><br>
-
-`TODO://`
+<img src="http://g.recordit.co/oImzeatFXU.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
